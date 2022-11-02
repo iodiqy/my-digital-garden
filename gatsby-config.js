@@ -10,12 +10,12 @@ module.exports = {
     // siteUrl: `https://yoursite.com/notes/`, // URL at which your site will be published. This should be present if you want RSS feed.
     // headerMenu: [ // Top Navbar items
     //   {type: 'page', item: '', title: 'Home'}, // Type can be 'page', 'note', 'tag', or 'link'
-    //   {type: 'page', item: 'sitemap', title: 'Sitemap'},
+    //   {type: 'page', item: 'phthisiology', title: 'Phthisiology'},
     //   {type: 'page', item: 'rss.xml', title: 'RSS'},
     //   {
     //     type: 'page', item: 'tags', title: 'Tags',
     //     menu: [ // Only one level depth, please.
-    //       {type: 'tag',item: 'zettelkasten'},
+    //       {type: 'page',item: 'Phthisiology'},
     //       {type: 'tag',item: 'philosophy'},
     //       {type: 'tag',item: 'psychology'},
     //       {type: 'tag',item: 'rationality'},
