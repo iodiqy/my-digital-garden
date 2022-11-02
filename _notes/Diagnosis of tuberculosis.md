@@ -19,7 +19,7 @@ cards-deck: Obsidian::Phthisiology
 - Очаг это изменение до 1 см.
 
 ## Case 1: Primary tuberculosis (lymphangeitis)
-![[Pasted image 20221031103420.png]]
+![[image.webp]]
 - Teen young patient so it might be primary.
 
 ## Case 2: Infiltrative tuberculosis
