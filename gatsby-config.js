@@ -15,7 +15,7 @@ module.exports = {
     //   {
     //     type: 'page', item: 'tags', title: 'Tags',
     //     menu: [ // Only one level depth, please.
-    //       {type: 'page',item: 'Phthisiology'},
+    //       {type: 'tag',item: 'Phthisiology'},
     //       {type: 'tag',item: 'philosophy'},
     //       {type: 'tag',item: 'psychology'},
     //       {type: 'tag',item: 'rationality'},

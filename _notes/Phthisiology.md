@@ -32,24 +32,21 @@ address: Bekhozhina 5 (ННЦФ)
 		- Tuberculous pleurisy
 		- Tuberculous of peripheral and mesenteric lymph nodes
 		- Tuberculosis of intrathoracic lymph nodes
-- Disseminated pulmonary tuberculosis
+- [[Disseminated pulmonary tuberculosis]]
 - Tuberculous meningitis
 - [[Treatment of tuberculosis]]
 	- MDR/XDR-TB
 	- Classification of anti-tuberculosis drugs
 - Non-specific prevention of tuberculosis
 - Dispensary registration groups
+- Meningeal complication
+- [[Fibrous Cavernous Tuberculosis (ФКТ)]]
 
 
 
 
-![[Pasted image 20221027164031.png]]
+![[thissi4if4j.png]]
 
-
-
-14. Какой метод верификации диагноза диссеминированного поражения легких является наиболее информативным?
-
-а. рентгенография  
-б. иммуногенетическое исследование  
-в. микробиологическое исследование бронхиального содержимого г. радионуклидное исследование легких  
-д. гистологическое исследование ткани легкого
+- Fibrous alveolitis looks like disseminated tuberculosis
+- Сливающиеся очаги с участками просветления
+	- Когда о

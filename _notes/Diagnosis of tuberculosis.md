@@ -19,22 +19,22 @@ cards-deck: Obsidian::Phthisiology
 - Очаг это изменение до 1 см.
 
 ## Case 1: Primary tuberculosis (lymphangeitis)
-![[image.webp]]
+![2022110223.png](2022110223.png)
 - Teen young patient so it might be primary.
 
 ## Case 2: Infiltrative tuberculosis
-![[Pasted image 20221031103906.png]]
+![2022110223-1.png](2022110223-1.png)
 - Bronchoectasis
 - В стадии распада (участки просветления в области инфильтрации)
 
 ## Case 3: Acute disseminated tuberculosis
-![[Pasted image 20221031111139.png]]
+![2022110275.png](2022110275.png)
 - This is acute process because spots are separated and very small in size.
 	- These little spots will form bigger structures which will be in chronic processes.;
 
 
 ## Case 4: Tuberculoma
-![[Pasted image 20221031104610.png]]
+![2022110298.png](2022110298.png)
 - Differential diagnosis
 	- Periphery tumor of lung (white round spot)
 	- Echinoccosis
@@ -42,7 +42,7 @@ cards-deck: Obsidian::Phthisiology
 	- Homotochondroma
 
 ## Case 5: Увеличение паратрахеальные и бронхопульмональные лимфотические 
-![[Pasted image 20221031110649.png]]
+![2022110244.png](2022110244.png)
 - 5 year old kid
 - Расширение тени средостения
 - Паратрахеальные лимфотические узлы на протяжении корней легких
@@ -50,7 +50,7 @@ cards-deck: Obsidian::Phthisiology
 	- Sarcaidososis
 
 ## Case 6: Ring shadow
-![[Pasted image 20221031110205.png]]
+![2022110258.png](2022110258.png)
 - Ring shadow (Кольцевидная тень)
 - Танталовые швы (скрепки в легких) - цепочка в легких
 	- Это является причинввой смещения средостения
@@ -59,3 +59,6 @@ cards-deck: Obsidian::Phthisiology
 
 # References
 1. [Tuberculosis - X-ray diagnostics](http://www.learningradiology.com/notes/chestnotes/tbpage.htm)
+
+
+
