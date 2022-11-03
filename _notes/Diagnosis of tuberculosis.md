@@ -14,9 +14,28 @@ cards-deck: Obsidian::Phthisiology
 	- Molecular-genetic (determination of the drug resistancy)
 		- G-xpert (PCR method)
 
+- If there is a **blood** in the sputum - **G-xpert** (PCR method) is not performed, because it can give a false result.
+
+- Usually mantoux not performed for adults, only when:
+	- *This is important to exclude latent tuberculosis and prevent reactivation of tuberculosis*
+		- Gonovaccine (Gonococcal vaccine)
+		- Пересадка органа
+		- Генно-биологические
+
 # X-ray diagnosis
 
 - Очаг это изменение до 1 см.
+- Fibrous alveolitis looks like disseminated tuberculosis.
+- Сливающиеся очаги с участками просветления
+	- Когда очаги сливаются, между ними образуются очаги просветления.
+- Участки с просветлением в центре - признак *карцинаматоза*.
+	- Зачастую однородное затенение
+- Боковой снимок чтобы лучше разглядеть наличие жидкости, очаги и другие образования.
+- Бронхогенная обсеменация
+	- При кашле мокрота попадает ниже по ходу бронхов и заражает ткани ниже.
+- Тени
+	- Округлая/Фокусная
+	- Кольцевидная
 
 ## Case 1: Primary tuberculosis (lymphangeitis)
 ![2022110223.png](2022110223.png)
@@ -30,7 +49,7 @@ cards-deck: Obsidian::Phthisiology
 ## Case 3: Acute disseminated tuberculosis
 ![2022110275.png](2022110275.png)
 - This is acute process because spots are separated and very small in size.
-	- These little spots will form bigger structures which will be in chronic processes.;
+	- These little spots will form bigger structures which will be in chronic processes.
 
 
 ## Case 4: Tuberculoma
@@ -53,9 +72,17 @@ cards-deck: Obsidian::Phthisiology
 ![2022110258.png](2022110258.png)
 - Ring shadow (Кольцевидная тень)
 - Танталовые швы (скрепки в легких) - цепочка в легких
-	- Это является причинввой смещения средостения
+	- Производилась операция. Это является причиной смещения средостения.
 - This is woman (because mammary glands visible)
 - Emphysematous process on the lower parts of lung
+
+
+# Flashcards
+
+When x-ray front shot lung is not enough - side shot is used. **What is purpose of side shot?** #card 
+On side shot it's better to see spots, fluid and other structures of lungs.
+^1667482415284
+
 
 # References
 1. [Tuberculosis - X-ray diagnostics](http://www.learningradiology.com/notes/chestnotes/tbpage.htm)

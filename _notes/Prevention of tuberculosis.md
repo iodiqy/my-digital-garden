@@ -18,7 +18,7 @@ cards-deck: Obsidian::Phthisiology
 
 # Flashcards
 
-Sputum is the gold standard for diagnosing tuberculosis. What method for collecting material is a good choice in case absence of sputum? #card 
+Sputum is the gold standard for diagnosing tuberculosis. What method for collecting material is a best choice in case absence of sputum? #card 
 Bronchoalveolar lavage (Бронхоалвеолярный смыв (БАС))
 ^1666957236442
 

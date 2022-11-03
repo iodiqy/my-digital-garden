@@ -8,6 +8,8 @@ cards-deck: Obsidian::Phthisiology
 # Lecture notes
 
 - BACTEC method is used to test for drug sensitivity
+- Tuberculosis in pregnancy
+	- First trimester: should be performed *abortion*
 
 # Treatment of M/XDR-TB
 - There is no sense to use more than 4-5 drugs to treat tuberculosis, because this will cause too much side effects.

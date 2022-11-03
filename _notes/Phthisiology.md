@@ -47,6 +47,9 @@ address: Bekhozhina 5 (ННЦФ)
 
 ![[thissi4if4j.png]]
 
-- Fibrous alveolitis looks like disseminated tuberculosis
-- Сливающиеся очаги с участками просветления
-	- Когда о
+
+
+## Case: Caseos pneumonia
+
+- Левое легкое полностью повреждено
+- Распад легочной ткани
